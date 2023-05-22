@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **getting remote job as a full-stack engineer.**
 
-- 👨‍💻 All of my projects are available at [http://github.com/rummansadiq](http://github.com/rummansadiq)
+- 👨‍💻 All of my projects are available at [http://github.com/rummansadiq99](http://github.com/rummansadiq99)
 
 - 💬 Ask me about **Ruby / Ruby on Rails**
 
